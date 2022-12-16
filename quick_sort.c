@@ -48,6 +48,7 @@ for(i=0;i<n;i++)
 a[i]=rand()%100;
 printf("%d\t",a[i]);
 }
+
 low=0;
 high=n-1;
 st=clock();
